@@ -1,0 +1,24 @@
+PS C:\Users\User> javac "C:\Users\User\Documents\School Docs\Java Practice\chp.3\SpaService.java"
+PS C:\Users\User> javac "C:\Users\User\Documents\School Docs\Java Practice\chp.3\CreateSpaServices.java"
+C:\Users\User\Documents\School Docs\Java Practice\chp.3\CreateSpaServices.java:11: error: cannot find symbol
+                SpaService firstService = new SpaService();
+                ^
+  symbol:   class SpaService
+  location: class CreateSpaServices
+C:\Users\User\Documents\School Docs\Java Practice\chp.3\CreateSpaServices.java:11: error: cannot find symbol
+                SpaService firstService = new SpaService();
+                                              ^
+  symbol:   class SpaService
+  location: class CreateSpaServices
+C:\Users\User\Documents\School Docs\Java Practice\chp.3\CreateSpaServices.java:12: error: cannot find symbol
+                SpaService secondService = new SpaService();
+                ^
+  symbol:   class SpaService
+  location: class CreateSpaServices
+C:\Users\User\Documents\School Docs\Java Practice\chp.3\CreateSpaServices.java:12: error: cannot find symbol
+                SpaService secondService = new SpaService();
+                                               ^
+  symbol:   class SpaService
+  location: class CreateSpaServices
+4 errors
+PS C:\Users\User>
